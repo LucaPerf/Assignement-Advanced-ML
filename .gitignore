@@ -1,7 +1,5 @@
 .venv/
-*.keras
-*.npz
-temp_colab_fabio.ipynb
-TrainingFabio_Extracted_data
-plot.png
+Augmented_NPZ
+Dataset
 Ext_Test
+Regular_NPZ
